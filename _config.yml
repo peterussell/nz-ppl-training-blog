@@ -1,11 +1,9 @@
 # Site settings
-title: Pete Russell - CPL Multi-Engine Training Blog
+title: Pete Russell - NZ PPL Training Notes
 email:
 description: > # this means to ignore newlines until "baseurl:"
- Ground study notes for the FAA commercial multi-engine instrument rating.
- Originally from Wellington NZ, now in Portland OR. Fly from Twin Oaks (7S3).
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://cpl.peterussell.me" # the base hostname & protocol for your site
+url: "http://nzppl.peterussell.me" # the base hostname & protocol for your site
 twitter_username: nz_pete
 github_username:  peterussell
 
