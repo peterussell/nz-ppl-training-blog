@@ -108,7 +108,7 @@ If F is the force, and d is distance moved, then W = Fxd.
 
 Power is the rate at which work is done. Measured in Watts in the SI system.
 
-**power = work done / time taken**
+**power = work done / time taken**<br>
 **power = force x distance / time**
 
 1 Watt = 1 joule/second.

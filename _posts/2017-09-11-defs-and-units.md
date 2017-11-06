@@ -41,10 +41,10 @@ The **Derived units** are formed by combination of fundamental units:
  * **Speed = distance travelled / time taken.**
     * Speed is a *scalar quantity*, it has magnitude but no direction.
  * **Velocity = distance travelled in a given direction / time taken.**
-    * Velocity is a *vectory quantity*, it has magnitude *and* direction.
+    * Velocity is a *vector quantity*, it has magnitude *and* direction.
  * **Acceleration = change of velocity.**
     * Because velocity has both speed and direction, if either of these
-      change, then there's a change in accelration.
+      change, then there's a change in acceleration.
     * When speed alone changes, there's a straight-line acceleration.
     * When the direction alone changes, a force toward the centre of the
       curved path is imposed. The accelerating force is centrifugal force.
@@ -63,8 +63,8 @@ The **Derived units** are formed by combination of fundamental units:
 # Force, Weight and G
 
 **Force** tries to move a mass out of its state of rest or uniform motion, ie.
-it is trying to overcome inertia. How successful it is depends on whether
-opposing forces balance it.
+it is trying to overcome inertia. How successful it is depends on whether it's
+balanced by other forces.
 
 **Weight** is the force produced when a mass is attracted by Earth's gravity.
 At the surface of the earth, gravity produces an acceleration of 9.81m/s<sup>2</sup>.
